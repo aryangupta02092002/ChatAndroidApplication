@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160115263490",
+    "project_id": "chatapplication-dcdef",
+    "storage_bucket": "chatapplication-dcdef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160115263490:android:6ed95c312a7848cea47f1b",
+        "android_client_info": {
+          "package_name": "com.aryan.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160115263490-o2gi6cei0eu3p2d76rrkmvfqjaedi4tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClG_kf44Q-qbemCvGC8PH6JTlop1aLLlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160115263490-o2gi6cei0eu3p2d76rrkmvfqjaedi4tv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
